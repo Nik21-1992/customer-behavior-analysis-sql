@@ -12,7 +12,8 @@ Understand customer behavior, retention, and channel performance to identify key
 - Tables used:
   - customers  
   - orders  
-  - website_sessions  
+  - website_sessions
+- - Note: This is a publicly available dataset used for analytical practice and does not represent real business data.
 
 ---
 
