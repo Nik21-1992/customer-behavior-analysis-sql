@@ -1,5 +1,6 @@
-# 📊 Customer Behavior & Growth Analysis (SQL + Power BI)
-SQL-based analysis of customer behavior, retention, and channel performance with actionable growth insights.
+# Customer Behavior & Growth Analysis (SQL + Power BI)
+This project follows an end-to-end analytics workflow from raw data to business insights using SQL & Power BI.
+
 
 
 ## Objective
